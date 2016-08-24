@@ -1,0 +1,18 @@
+{
+  "name": "hapi-demo",
+  "version": "0.0.0",
+  "description": "'demo'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^14.2.0",
+    "inert": "^4.0.2"
+  }
+}
